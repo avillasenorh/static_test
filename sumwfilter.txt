@@ -1,0 +1,5 @@
+cut o DIST/3.3 -30 o DIST/3.3 +60
+rtr
+taper w 0.1
+hp c 0.03 n 3 
+lp c 0.08 n 3 
